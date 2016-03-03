@@ -1,0 +1,6 @@
+C:\Users\Marieta\Desktop\softuni\OOP\OOPExamPractice\MusicShopManager\MusicShopManager-Skeleton\MusicShopManager\bin\Debug\MusicShop.exe.config
+C:\Users\Marieta\Desktop\softuni\OOP\OOPExamPractice\MusicShopManager\MusicShopManager-Skeleton\MusicShopManager\obj\Debug\MusicShopManager.csprojResolveAssemblyReference.cache
+C:\Users\Marieta\Desktop\softuni\OOP\OOPExamPractice\MusicShopManager\MusicShopManager-Skeleton\MusicShopManager\bin\Debug\MusicShop.exe
+C:\Users\Marieta\Desktop\softuni\OOP\OOPExamPractice\MusicShopManager\MusicShopManager-Skeleton\MusicShopManager\bin\Debug\MusicShop.pdb
+C:\Users\Marieta\Desktop\softuni\OOP\OOPExamPractice\MusicShopManager\MusicShopManager-Skeleton\MusicShopManager\obj\Debug\MusicShop.exe
+C:\Users\Marieta\Desktop\softuni\OOP\OOPExamPractice\MusicShopManager\MusicShopManager-Skeleton\MusicShopManager\obj\Debug\MusicShop.pdb

@@ -1,0 +1,4 @@
+C:\Users\Marieta\Desktop\softuni\OOP\OOPExamPractice\RestaurantManager\RestaurantManager-Skeleton\bin\Debug\RestaurantManager.exe
+C:\Users\Marieta\Desktop\softuni\OOP\OOPExamPractice\RestaurantManager\RestaurantManager-Skeleton\bin\Debug\RestaurantManager.pdb
+C:\Users\Marieta\Desktop\softuni\OOP\OOPExamPractice\RestaurantManager\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.exe
+C:\Users\Marieta\Desktop\softuni\OOP\OOPExamPractice\RestaurantManager\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.pdb

@@ -1,0 +1,9 @@
+C:\Users\Marieta\Desktop\softuni\OOP\OOPExamPractice\Capitalism\FootballLeague\bin\Debug\FootballLeague.exe.config
+C:\Users\Marieta\Desktop\softuni\OOP\OOPExamPractice\Capitalism\FootballLeague\bin\Debug\FootballLeague.exe
+C:\Users\Marieta\Desktop\softuni\OOP\OOPExamPractice\Capitalism\FootballLeague\bin\Debug\FootballLeague.pdb
+C:\Users\Marieta\Desktop\softuni\OOP\OOPExamPractice\Capitalism\FootballLeague\obj\Debug\FootballLeague.csprojResolveAssemblyReference.cache
+C:\Users\Marieta\Desktop\softuni\OOP\OOPExamPractice\Capitalism\FootballLeague\obj\Debug\FootballLeague.exe
+C:\Users\Marieta\Desktop\softuni\OOP\OOPExamPractice\Capitalism\FootballLeague\obj\Debug\FootballLeague.pdb
+C:\Users\Marieta\Desktop\softuni\OOP\OOPExamPractice\FootballLeague\bin\Debug\FootballLeague.exe.config
+C:\Users\Marieta\Desktop\softuni\OOP\OOPExamPractice\FootballLeague\obj\Debug\FootballLeague.exe
+C:\Users\Marieta\Desktop\softuni\OOP\OOPExamPractice\FootballLeague\obj\Debug\FootballLeague.pdb

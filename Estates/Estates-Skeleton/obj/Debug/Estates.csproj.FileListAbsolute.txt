@@ -1,0 +1,5 @@
+C:\Users\Marieta\Desktop\estates 2\Estates-Skeleton\bin\Debug\Estates.exe
+C:\Users\Marieta\Desktop\estates 2\Estates-Skeleton\bin\Debug\Estates.pdb
+C:\Users\Marieta\Desktop\estates 2\Estates-Skeleton\obj\Debug\Estates.csprojResolveAssemblyReference.cache
+C:\Users\Marieta\Desktop\estates 2\Estates-Skeleton\obj\Debug\Estates.exe
+C:\Users\Marieta\Desktop\estates 2\Estates-Skeleton\obj\Debug\Estates.pdb
